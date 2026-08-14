@@ -25,7 +25,7 @@ if compgen -G "$OUTPUT_DIR/${report_name}-cover.pdf" > /dev/null 2>&1; then
 fi
 
 cd "$PROJECT_DIR"
-prompt="You are preparing a tailored cover letter PDF for ${APPLY_FULL_NAME} (Mumbai, India; email ${APPLY_EMAIL}).
+prompt="You are preparing a tailored cover letter PDF for ${APPLY_FULL_NAME} (${APPLY_LOCATION:-Your City, Your Country}; email ${APPLY_EMAIL}).
 
 READ FIRST (mandatory):
 1. cv.md — the candidate's CV (achievements and metrics source)
