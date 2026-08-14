@@ -35,7 +35,7 @@ the **Apply Bot** that fills and submits them for you:
 
 ---
 
-## Quick start — 6 steps
+## Quick start — 5 steps
 
 > **Total time: ~15 minutes** to get set up.
 
